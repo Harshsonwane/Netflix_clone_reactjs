@@ -1,5 +1,4 @@
-// replace below firebase config with your own
-
+//firebase key
 const firebaseConfig = {
       apiKey: "AIzaSyCORdS_5YLA9Gv8lPokHAyHKnSdFWfK6Mg",
       authDomain: "netflixcloneapp-42ff1.firebaseapp.com",
@@ -10,7 +9,7 @@ const firebaseConfig = {
       measurementId: "G-F7PKJQW93E"
   };
 
-// craete a/c on themoviedb.org and replace access token below
+// themoviedb.org key
 
 
 const TMDB_Access_Key="eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMmRkYTJkNDk5MjA5MDU5MDAxZjgyZmQ1NzZmMmQ5NyIsIm5iZiI6MTcyMjIzODg1NC4xNzQyNDIsInN1YiI6IjY2YTc0NTU4YWY5ZDMyZDMyYWFiYWFiZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.G6UA_wDIsdVlSNt9hUyv0Qk6SPH4LGrX65oDsuPNAxQ";
